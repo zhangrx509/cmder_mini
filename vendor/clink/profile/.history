@@ -1,0 +1,2 @@
+git st
+JLink.exe ..\JLink_V620f\..\..\Asimov\flash-script-s32v-bl 
